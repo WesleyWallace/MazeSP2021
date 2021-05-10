@@ -1,0 +1,12 @@
+ParticipantID, DataType, MazeType, MazeNumber, AttemptNumber, Movement, Error, AudioType, AudioCue, AudioAnswer, Time, MazeLocation, Gender, VideoGame
+46, D, Allo, 5, 1, Down, 0, Ego, 6, , 4/27/2021 4:39:53 PM, (1 : 1)
+46, D, Allo, 5, 1, Down, 0, Ego, 6, , 4/27/2021 4:39:55 PM, (5 : 1)
+46, D, Allo, 5, 1, Down, 0, Ego, 6, , 4/27/2021 4:39:57 PM, (13 : 1)
+46, D, Allo, 5, 1, NULL, 0, Ego, 6, y, 4/27/2021 4:40:00 PM, (13 : 1)
+46, D, Allo, 5, 1, Right, 0, Ego, 6, , 4/27/2021 4:40:03 PM, (13 : 3)
+46, D, Allo, 5, 1, Up, 0, Ego, 0, , 4/27/2021 4:40:05 PM, (9 : 3)
+46, D, Allo, 5, 1, Right, 0, Ego, 0, , 4/27/2021 4:40:06 PM, (9 : 5)
+46, D, Allo, 5, 1, Down, 0, Ego, 0, , 4/27/2021 4:40:06 PM, (11 : 5)
+46, D, Allo, 5, 1, Down, 0, Ego, 0, , 4/27/2021 4:40:07 PM, (13 : 5)
+46, D, Allo, 5, 1, Left, 1, Ego, 52, , 4/27/2021 4:40:08 PM, (13 : 3)
+46, D, Allo, 5, 1, NULL, 2, Ego, 52, y, 4/27/2021 4:40:09 PM, (13 : 3)
